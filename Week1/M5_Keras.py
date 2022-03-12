@@ -160,7 +160,7 @@ optimizer = optimizers.Adam(learning_rate=0.0008)
 model.compile(loss='categorical_crossentropy', optimizer=optimizer,
               metrics=['accuracy'])
 			  
-model_name = input("Give me a name baby:")
+model_name = input("Give me a name:")
 plot_model(model, to_file=model_name + ".png", show_shapes=True)
 
 csv_logger = CSVLogger(model_name + '.csv')
