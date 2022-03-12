@@ -176,7 +176,7 @@ for epoch in range(1, number_of_epoch+1):
     val_acc_history.append(val_acc.item())
     train_acc_history.append(train_acc.item())    
 	
-	scheduler.step()
+    scheduler.step()
     
  
 df_res = pd.DataFrame()
