@@ -8,7 +8,9 @@
   <li> Berkay Arpacı
 
 <h5> Slides </h5>
-  
 <a href="https://docs.google.com/presentation/d/1iAEn_3kK9R6oGC0gqtUuI493gVwk-IUJW94MPuVSM1I/edit?usp=sharing"> Week 1</a> <br>
 <a href="https://docs.google.com/presentation/d/1TIshU0NuOs_4HYSLgoAMA30fxXUmKDbs2Cjy8TQnnuA/edit?usp=sharing"> Week 2</a> <br>
+<a href="https://docs.google.com/presentation/d/172LZtISWe91howhvVVjwyDEn3fXgzKMBr7VCIDuHzHg/edit?usp=sharing"> Week 3</a> <br>
+    
+<h5> Report </h5>
 <a href="https://www.overleaf.com/read/qqbbqgxycxzk"> Week 2 Overleaf </a>
